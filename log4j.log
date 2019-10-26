@@ -1,0 +1,250 @@
+this is the before method
+this is the test method: INFO
+this is the test method: WARN
+this is the after method
+starting the method
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+{firstname=Roberto, role=student-team-member, id=3079, email=robertoschroeder@torp.name, lastname=Schroeder}
+{firstname=Dierdre, role=student-team-member, id=3080, email=dierdrerogahn@rath.info, lastname=Rogahn}
+this is the before method
+this is the test method: INFO
+this is the test method: WARN
+this is the after method
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+this is the before method
+this is the test method: INFO
+this is the test method: WARN
+this is the after method
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 7
+[harvard, yale, princeton, stanford, duke, berkeley, ping pong]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+starting the method
+3
+3
+[3, 4, 5]
+harvard
+size: 3
+[[harvard, yale, princeton, stanford, duke, berkeley, ping pong], [kilimanjaro, half dome, denali, meru], [google, apple, microsoft, bay_area, amazon, tesla, facebook]]
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{rooms=[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}], name=light-side, id=3}
+rooms
+[{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}, {withTV=true, name=yale, description=lux et veritas, id=113, withWhiteBoard=false, capacity=6}, {withTV=true, name=princeton, description=dei sub numine viget, id=114, withWhiteBoard=false, capacity=4}, {withTV=false, name=stanford, description=die luft der freiheit weht, id=115, withWhiteBoard=true, capacity=6}, {withTV=true, name=duke, description=eruditio et religio, id=116, withWhiteBoard=false, capacity=4}, {withTV=true, name=berkeley, description=fiat lux, id=117, withWhiteBoard=false, capacity=4}, {withTV=true, name=ping pong, description=mens et manus, id=111, withWhiteBoard=false, capacity=6}]
+name
+light-side
+id
+3
+{withTV=true, name=harvard, description=veritas, id=112, withWhiteBoard=false, capacity=6}
+true
+harvard
+veritas
+112
+false
+6
+true
+harvard
+veritas
+112
+false
+6
+{firstname=Sonny, role=student-team-member, id=4107, email=sonnyturcotte@kuhlman.org, lastname=Turcotte}
+{firstname=Samara, role=student-team-member, id=4463, email=samarachamplin@wiegand.io, lastname=Champlin}
+{firstname=Andy, role=student-team-member, id=4525, email=andycassin@stokes.net, lastname=Cassin}
